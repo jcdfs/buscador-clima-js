@@ -1,0 +1,19 @@
+#resultadoClima {
+  margin-top: 30px;
+  padding: 20px;
+  margin-left: 20px;
+  border-radius: 15px;
+  background: linear-gradient(to bottom, #4facfe 0%, #00f2fe 100%);
+  color: white;
+  display: inline-block;
+  min-width: 250px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+#resultadoClima img {
+  width: 100px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
